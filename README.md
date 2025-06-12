@@ -48,6 +48,10 @@ Con un mapa interactivo, información útil y herramientas inclusivas, podrás *
 - Ajuste de tamaño de texto.
 - Compatibilidad con lectores de pantalla (TalkBack, VoiceOver).
 
+### 🏛️ Información Verificada por la Municipalidad
+- Todo el contenido mostrado en la plataforma —incluyendo ubicaciones accesibles, eventos, y servicios— ha sido verificado y validado por la Municipalidad de Curicó, garantizando información confiable y actualizada para los usuarios.
+
+
 ---
 
 ## 🛠️ Tecnologías Utilizadas
