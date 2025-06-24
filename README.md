@@ -75,7 +75,8 @@ Con un mapa interactivo, información útil y herramientas inclusivas, podrás *
 
 ### Para Colaboradores y Comunidad:
 - Sugiere nuevos lugares accesibles.
-- Escribe tu experiencia con cada sitio.
+- ¿Como? Haz click en el boton colaborar que esta abajo del buscador, lee el manual o instructivo que accesibilidad y luego haz click en continuar. tendras que completar un formulario con la informacion del lugar a agregar. Esto se trasforma en una solicitud la cual personal de la municipalidad de Curicó se encargará de analizar y aprobar.
+- Escribe tu experiencia con cada sitio dejando reseñas.
 - Sé parte del cambio hacia una ciudad más inclusiva.
 
 ---
