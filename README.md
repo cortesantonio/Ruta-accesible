@@ -92,14 +92,6 @@ Este proyecto está bajo la Licencia MIT. El código no es público, pero puedes
 
 ---
 
-## 👤 Equipo
-
-- **Antonio** — *Desarrollador Principal* — [GitHub](https://github.com/tu-usuario)
-
----
-
-## 📞 Contacto
-
 - 🌐 Sitio web: [[www.rutaaccesible.site](https://rutaaccesible.site/)]
 
 ---
